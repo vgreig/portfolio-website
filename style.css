@@ -45,3 +45,47 @@ a:hover{
 }
 
 /* turn logo into cv link? */
+
+/* profile section */
+
+#profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10rem;
+    height: 20vh;
+}
+.profile-pic-container {
+    display: flex;
+    padding-top: 120px;
+
+}
+
+img {
+    display: flex;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    
+}
+
+.profile-text {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.button-1 {
+    margin-top: 10px;
+    border-radius: 0.5rem;
+    border: black solid 5px;
+    display: flex;
+    align-items: center;
+    background: white;
+    color: black;
+    font-weight: 600;
+    padding: 10px;
+    margin-left: 17px;
+}
+
