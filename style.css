@@ -89,3 +89,10 @@ img {
     margin-left: 17px;
 }
 
+.about {
+    justify-content: center;
+    margin-top: 10rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+}
