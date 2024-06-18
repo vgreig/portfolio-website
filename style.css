@@ -1,8 +1,7 @@
 /* general styling */
 *{
-    margin: 0;
-    padding: 0;
     font-family: "Poppins", sans-serif;
+    
 }
 
 html {
@@ -55,6 +54,7 @@ a:hover{
     gap: 10rem;
     height: 20vh;
 }
+
 .profile-pic-container {
     display: flex;
     padding-top: 120px;
@@ -65,8 +65,7 @@ img {
     display: flex;
     height: 300px;
     width: 300px;
-    border-radius: 50%;
-    
+    border-radius: 50%;   
 }
 
 .profile-text {
@@ -78,7 +77,7 @@ img {
 
 .button-1 {
     margin-top: 10px;
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     border: black solid 5px;
     display: flex;
     align-items: center;
@@ -89,10 +88,28 @@ img {
     margin-left: 17px;
 }
 
+.button-1:hover{
+    background: black;
+    color: white;
+    cursor: pointer;
+}
+
 .about {
     justify-content: center;
     margin-top: 10rem;
     padding-left: 2rem;
     padding-right: 2rem;
+}
 
+.contact {
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+.socials {
+    font-size: 2rem;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    max-width: 300px; 
 }
