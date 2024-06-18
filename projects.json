@@ -4,22 +4,22 @@
         "name": "Project 1",
         "img": "https://via.placeholder.com/300x300",
         "desc": "placeholder for project description.",
-        "skills": "skills used",
-        "Github": "https://github.com/vgreig"
+        "skills": "skills used, skills used, skills used",
+        "github": "https://github.com/vgreig"
       },
       {
         "name": "Project 2",
         "img": "https://via.placeholder.com/300x300",
         "desc": "placeholder for project description.",
-        "skills": "skills used",
-        "Github": "https://github.com/vgreig"
+        "skills": "skills used, skills used, skills used",
+        "github": "https://github.com/vgreig"
       },
       {
         "name": "Project 3",
         "img": "https://via.placeholder.com/300x300",
         "desc": "placeholder for project description.",
-        "skills": "skills used",
-        "Github": "https://github.com/vgreig"
+        "skills": "skills used, skills used, skills used",
+        "github": "https://github.com/vgreig"
       }
     ]
 }
