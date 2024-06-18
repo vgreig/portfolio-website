@@ -149,4 +149,9 @@ h2{
     align-items: center; 
 }
 
+.p-links{
+    display:flex;
+    justify-content: space-evenly;
+}
+
 /*turn pictures into clicks */

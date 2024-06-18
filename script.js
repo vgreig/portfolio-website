@@ -14,7 +14,8 @@ fetch(`projects.json`).then(function (res) {
                     <ul class="skills">
                         <li>${project.skills}</li>
                     </ul>
-                    <p>Github<a href="${project.github}"><i class="fa-brands fa-github"></i></a></p>
+                    <p class="p-links"><a href="${project.github}">Github <i class="fa-brands fa-github"></i></a>
+                    <a href="${project.live}">Live Demo <i class="fa-solid fa-burst"></i></a></p>
                 </div>
             
             `
