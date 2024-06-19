@@ -240,7 +240,7 @@ h2{
     #mobile-nav {
         display: flex;
     }
-
+    /* profile section */
     #profile {
         display: flex;
         flex-direction: column;
@@ -254,6 +254,15 @@ h2{
 
     .profile-text {
         padding-top: 0;
+    }
+
+    /* about section */
+
+    .about-container {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        width: fit-content;
     }
 }
     
