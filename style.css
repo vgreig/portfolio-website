@@ -264,5 +264,15 @@ h2{
         flex-wrap: wrap;
         width: fit-content;
     }
+
+    /* footer */
+
+    .footer {
+        flex-direction: column;
+    }
+
+    .nav-links {
+        flex-direction: column;
+    }
 }
     
