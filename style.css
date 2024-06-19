@@ -108,6 +108,7 @@ img {
 .contact {
     padding-left: 2rem;
     padding-right: 2rem;
+    padding-bottom: 2rem;
 }
 
 .socials {
@@ -160,4 +161,14 @@ h2{
     justify-content: space-evenly;
 }
 
-/*turn pictures into clicks */
+/*turn pictures into clicks? */
+
+/* footer */
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    border-top: 0.1rem solid rgb(155, 153, 153);
+    margin: 0 1rem;
+}
