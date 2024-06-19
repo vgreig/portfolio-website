@@ -240,6 +240,10 @@ h2{
     #mobile-nav {
         display: flex;
     }
+
+    h1 {
+        text-align: center;
+    }
     /* profile section */
     #profile {
         display: flex;
@@ -263,6 +267,18 @@ h2{
         flex-direction: column;
         flex-wrap: wrap;
         width: fit-content;
+    }
+
+    /* contact section */
+
+    .contact {
+        justify-content: center;
+        text-align: center;
+    }
+
+    .contact-info-container {
+        display: flex;
+        justify-content: center;
     }
 
     /* footer */
