@@ -78,18 +78,18 @@ img {
 .button-1 {
     margin-top: 10px;
     border-radius: 1rem;
-    border: black solid 5px;
+    border: rgb(45, 45, 45) solid 5px;
     display: flex;
     align-items: center;
     background: white;
-    color: black;
+    color: rgb(45, 45, 45);
     font-weight: 600;
     padding: 10px;
     margin-left: 17px;
 }
 
 .button-1:hover{
-    background: black;
+    background: rgb(45, 45, 45);
     color: white;
     cursor: pointer;
 }
@@ -127,8 +127,8 @@ img {
     display:grid;
     grid-template-columns: auto auto auto;
     justify-content: space-evenly;
-    border: 0.5rem solid grey;
-    border-radius: 20px;
+    /* border: 0.4rem solid rgb(155, 153, 153);
+    border-radius: 20px; */
     margin-left: 2rem;
     margin-right: 2rem;
 }
@@ -136,6 +136,12 @@ img {
 h2{
     display: flex;
     justify-content: space-around;
+}
+
+.project-2{
+    border: 0.1rem solid rgb(155, 153, 153);
+    border-radius: 20px;
+    padding: 2rem;
 }
 
 .project-text{
