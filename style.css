@@ -269,6 +269,25 @@ h2{
         width: fit-content;
     }
 
+    /* projects section */
+
+    .portfolio {
+        display: flex;
+        flex-direction: column;   
+    }
+
+    .project-2 {
+        display: flex;
+        flex-direction: column;
+        align-items: center; 
+        margin: 1rem;    
+    }
+
+    .p-links {
+        justify-content: space-around;
+        gap: 1rem;
+    }
+
     /* contact section */
 
     .contact {
