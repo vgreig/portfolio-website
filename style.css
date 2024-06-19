@@ -231,12 +231,29 @@ h2{
 
 /* media queries */
 
+/* nav menu */
+
 @media screen and (max-width: 1200px) {
     #desktop-nav {
         display:none;
     }
     #mobile-nav {
         display: flex;
+    }
+
+    #profile {
+        display: flex;
+        flex-direction: column;
+        height: 80vh;
+        gap: 5rem;
+    }
+
+    .profile-pic-container {
+        margin-top: 0px;
+    }
+
+    .profile-text {
+        padding-top: 0;
     }
 }
     
