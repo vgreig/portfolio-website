@@ -4,7 +4,9 @@
         "name": "Project 1",
         "img": "https://craftypixels.com/placeholder-image/300x300/51aef5/fafafa&text=project+image",
         "desc": "placeholder for project description.",
-        "skills": "skills used, skills used, skills used",
+        "skill1": "skill one",
+        "skill2": "skill two",
+        "skill3": "skill three",
         "github": "https://github.com/vgreig",
         "live": "https://github.com/vgreig"
       },
@@ -12,7 +14,9 @@
         "name": "Project 2",
         "img": "https://craftypixels.com/placeholder-image/300x300/51aef5/fafafa&text=project+image",
         "desc": "placeholder for project description.",
-        "skills": "skills used, skills used, skills used",
+        "skill1": "skill one",
+        "skill2": "skill two",
+        "skill3": "skill three",
         "github": "https://github.com/vgreig",
         "live": "https://github.com/vgreig"
       },
@@ -20,7 +24,9 @@
         "name": "Project 3",
         "img": "https://craftypixels.com/placeholder-image/300x300/51aef5/fafafa&text=project+image",
         "desc": "placeholder for project description.",
-        "skills": "skills used, skills used, skills used",
+        "skill1": "skill one",
+        "skill2": "skill two",
+        "skill3": "skill three",
         "github": "https://github.com/vgreig",
         "live": "https://github.com/vgreig"
       }

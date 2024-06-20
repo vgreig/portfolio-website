@@ -12,7 +12,9 @@ fetch(`projects.json`).then(function (res) {
                     <img src="${project.img}" alt="portfolio screenshot"/>
                     <p class="project-text">${project.desc}</p>
                     <ul class="skills">
-                        <li>${project.skills}</li>
+                        <li>${project.skill1}</li>
+                        <li>${project.skill2}</li>
+                        <li>${project.skill3}</li>
                     </ul>
                     <p class="p-links"><a href="${project.github}">Github <i class="fa-brands fa-github"></i></a>
                     <a href="${project.live}">Live Demo <i class="fa-solid fa-burst"></i></a></p>
