@@ -126,10 +126,26 @@ img {
 }
 
 .profile-text {
+    display: flex;
+    flex-direction: column;
+    text-align: center;   
+}
+
+.profile-text-1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 5rem;
+    
+}
+
+.profile-text-2 {
+    display: flex;
+    flex-direction: column;
     text-align: center;
     justify-content: center;
     align-items: center;
-    padding-top: 20px;
 }
 
 .button-1 {
@@ -138,6 +154,7 @@ img {
     border: rgb(45, 45, 45) solid 5px;
     display: flex;
     align-items: center;
+   justify-content: center;
     background: white;
     color: rgb(45, 45, 45);
     font-weight: 600;
@@ -163,9 +180,7 @@ img {
 /* contact section */
 
 .contact {
-    padding-left: 2rem;
-    padding-right: 2rem;
-    padding-bottom: 2rem;
+    padding: 2rem;
 }
 
 .socials {
@@ -178,6 +193,10 @@ img {
 
 /* portfolio section */
 
+#projects {
+    margin-top: 2rem;
+}
+
 .projects-title {
     padding-left: 2rem;
 }
@@ -185,8 +204,6 @@ img {
     display:grid;
     grid-template-columns: auto auto auto;
     justify-content: space-evenly;
-    /* border: 0.4rem solid rgb(155, 153, 153);
-    border-radius: 20px; */
     margin-left: 2rem;
     margin-right: 2rem;
 }
