@@ -136,7 +136,7 @@ img {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 5rem;
+    padding-top: 6rem;
     
 }
 
@@ -175,6 +175,11 @@ img {
     margin-top: 10rem;
     padding-left: 2rem;
     padding-right: 2rem;
+}
+
+.about-container {
+    margin-top: 5rem;
+    margin-bottom: 2rem;
 }
 
 /* contact section */
@@ -279,6 +284,10 @@ h2{
         padding-top: 0;
     }
 
+    .profile-text-1 {
+        padding-top: 3rem;
+    }
+
     /* about section */
 
     .about-container {
@@ -341,8 +350,16 @@ h2{
         max-height: 70%;
     }
 
+    #profile {
+        gap: 2rem;
+    }
+
     .profile-pic-container {
         justify-content: center;
+    }
+
+    .profile-text-1 {
+        padding-top: 0rem;
     }
 
 }
