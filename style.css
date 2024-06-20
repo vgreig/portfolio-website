@@ -310,4 +310,12 @@ h2{
         flex-direction: column;
     }
 }
+
+@media screen and (max-width: 500px) {
+    img {
+        max-width: 70%;
+        max-height: 70%;
+    }
+
+}
     
