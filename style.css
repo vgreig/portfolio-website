@@ -182,18 +182,12 @@ img {
     margin-bottom: 2rem;
 }
 
-/* contact section */
-
-.contact {
-    padding: 2rem;
-}
-
-.socials {
+.fa-angles-down {
+    position: absolute;
+    right: 3rem;
     font-size: 2rem;
-    display: flex;
-    gap: 20px;
-    justify-content: space-around;
-    max-width: 300px; 
+    cursor: pointer;
+
 }
 
 /* portfolio section */
@@ -239,6 +233,20 @@ h2{
 .p-links{
     display:flex;
     justify-content: space-evenly;
+}
+
+/* contact section */
+
+.contact {
+    padding: 2rem;
+}
+
+.socials {
+    font-size: 2rem;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    max-width: 300px; 
 }
 
 /*turn pictures into clicks? */

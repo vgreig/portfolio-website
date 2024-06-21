@@ -30,3 +30,8 @@ function toggleMenu() {
     menu.classList.toggle("open");
     icon.classList.toggle("open");
 }
+
+const arrow = document.querySelector('.fa-angles-down')
+arrow.addEventListener('click', function() {
+    document.location.href ='#projects';
+})
