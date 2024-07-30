@@ -9,7 +9,7 @@ fetch(`projects.json`).then(function (res) {
         target.innerHTML += `
                 <div class="project-2">
                     <h2>${project.name}</h2>
-                    <img src="${project.img}" alt="portfolio screenshot"/>
+                    <img class="project-pic" src="${project.img}" alt="portfolio screenshot"/>
                     <p class="project-text">${project.desc}</p>
                     <ul class="skills">
                         <li>${project.skill1}</li>

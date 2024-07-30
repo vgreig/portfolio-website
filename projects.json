@@ -1,27 +1,27 @@
 {
     "projects": [
       {
-        "name": "Project 1",
-        "img": "https://craftypixels.com/placeholder-image/300x300/51aef5/fafafa&text=project+image",
-        "desc": "placeholder for project description.",
-        "skill1": "skill one",
-        "skill2": "skill two",
-        "skill3": "skill three",
-        "github": "https://github.com/vgreig",
-        "live": "https://github.com/vgreig"
+        "name": "PHP Music Player",
+        "img": "./music_project_img.png",
+        "desc": "music player built with PHP using an SQL database",
+        "skill1": "PHP",
+        "skill2": "MySQL",
+        "skill3": "Database manipulation",
+        "github": "https://github.com/iO-Academy/2024-may-music-player-uWu-ShruWu",
+        "live": "https://2024-may-sde-music-player-uwu-shruwu.dev.io-academy.uk/index.php"
       },
       {
-        "name": "Project 2",
-        "img": "https://craftypixels.com/placeholder-image/300x300/51aef5/fafafa&text=project+image",
-        "desc": "placeholder for project description.",
-        "skill1": "skill one",
-        "skill2": "skill two",
-        "skill3": "skill three",
-        "github": "https://github.com/vgreig",
-        "live": "https://github.com/vgreig"
+        "name": "React Invoice Manager",
+        "img": "./invoice-pic.jpg",
+        "desc": "invoice manager built using an existing API ",
+        "skill1": "React",
+        "skill2": "API manipulation",
+        "skill3": "Tailwind",
+        "github": "https://github.com/iO-Academy/2024-may-invoicing-sloth-rockets",
+        "live": "https://2024-may-sde-invoicing-sloth-rockets.dev.io-academy.uk/"
       },
       {
-        "name": "Project 3",
+        "name": "Laravel Project",
         "img": "https://craftypixels.com/placeholder-image/300x300/51aef5/fafafa&text=project+image",
         "desc": "placeholder for project description.",
         "skill1": "skill one",

@@ -233,6 +233,12 @@ h2{
     padding: 2rem;
 }
 
+.project-pic{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .project-text{
     display: flex;
     justify-content: center;
