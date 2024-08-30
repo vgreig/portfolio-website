@@ -3,12 +3,12 @@
       {
         "name": "PHP Music Player",
         "img": "./music_project_img.png",
-        "desc": "music player built with OOP PHP using an SQL database",
+        "desc": "built with OOP PHP and an SQL database",
         "skill1": "PHP",
         "skill2": "MySQL",
-        "skill3": "Database manipulation",
-        "github": "https://github.com/iO-Academy/2024-may-music-player-uWu-ShruWu",
-        "live": "https://2024-may-sde-music-player-uwu-shruwu.dev.io-academy.uk/index.php"
+        "skill3": "OOP",
+        "github": "https://github.com/vgreig/2024-music-player",
+        "live": "https://2024-vickyg.dev.io-academy.uk/2024-music-player/"
       },
       {
         "name": "React Invoice Manager",
