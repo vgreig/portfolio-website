@@ -39,6 +39,26 @@
         "skill3": "Javascript",
         "github": "https://github.com/vgreig/wordley",
         "live": "https://vgreig.github.io/wordley/build/"
+      }, 
+      {
+        "name": "Java Bank Account Manager",
+        "img": "./bank.png",
+        "desc": "Full stack bank account app in Java",
+        "skill1": "SpringBoot",
+        "skill2": "Java",
+        "skill3": "API Development",
+        "github": "https://github.com/vgreig/banking_backend",
+        "live": "https://vgreig.github.io/wordley/build/"
+      }, 
+      {
+        "name": "Automated Testing Project",
+        "img": "./cucumber.png",
+        "desc": "Automated Testing Scripts using Selenium",
+        "skill1": "Selenium Webdriver",
+        "skill2": "Cucumber",
+        "skill3": "Gherkin",
+        "github": "https://github.com/vgreig/banking_backend",
+        "live": "https://vgreig.github.io/automated_testing/"
       }
     ]
 }
