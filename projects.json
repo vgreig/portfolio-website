@@ -29,6 +29,16 @@
         "skill3": "database creation",
         "github": "https://github.com/iO-Academy/2024-may-sde-library-rats-book-swap-api",
         "live": "https://2024-may-bookswap-api-library-rats.dev.io-academy.uk/"
+      }, 
+      {
+        "name": "Wordley",
+        "img": "./wordley.png",
+        "desc": "wordle style game built in Javascript",
+        "skill1": "Toastr",
+        "skill2": "CSS",
+        "skill3": "Javascript",
+        "github": "https://github.com/vgreig/wordley",
+        "live": "https://vgreig.github.io/wordley/build/"
       }
     ]
 }
