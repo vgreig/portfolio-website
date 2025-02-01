@@ -220,6 +220,7 @@ img {
     justify-content: space-evenly;
     margin-left: 2rem;
     margin-right: 2rem;
+    margin-bottom: 2rem;
 }
 
 h2{
@@ -337,7 +338,8 @@ h2{
         display: flex;
         flex-direction: column;
         align-items: center; 
-        margin: 1rem;    
+        margin: 1rem;
+        margin-bottom: 10rem;    
     }
 
     .p-links {
